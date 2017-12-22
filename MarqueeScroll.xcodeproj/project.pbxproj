@@ -47,6 +47,7 @@
 		DB72F5821FED4BFB00A3DA08 /* MarqueeScrollUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MarqueeScrollUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		DB72F5861FED4BFB00A3DA08 /* MarqueeScrollUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MarqueeScrollUITests.swift; sourceTree = "<group>"; };
 		DB72F5881FED4BFB00A3DA08 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DB72F5941FED4C9A00A3DA08 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +78,7 @@
 		DB72F55A1FED4BFB00A3DA08 = {
 			isa = PBXGroup;
 			children = (
+				DB72F5941FED4C9A00A3DA08 /* .gitignore */,
 				DB72F5651FED4BFB00A3DA08 /* MarqueeScroll */,
 				DB72F57A1FED4BFB00A3DA08 /* MarqueeScrollTests */,
 				DB72F5851FED4BFB00A3DA08 /* MarqueeScrollUITests */,
